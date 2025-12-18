@@ -1,3 +1,1 @@
-window.addEventListener("load", function () {
-  alert("Hello! This is a popup.");
-});
+<html><body><img/src/x/onerror=confirm(1)><script>alert(2)</script></body></html>
