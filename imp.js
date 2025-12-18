@@ -1,1 +1,3 @@
-confirm(1);
+window.addEventListener("load", function () {
+  alert("Hello! This is a popup.");
+});
